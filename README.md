@@ -1,5 +1,8 @@
 # Clone-Layout-Spotify
-Layout desenvolvido durante o curso Completo de Desenvolvimento Web, ministrada pelo Jamilton Nascimento através da plataforma Udemy 
+Layout desenvolvido durante o curso 'Curso completo de Desenvolvimento Web - Crie 6 projetos', ministrada pelo Jamilton Nascimento através da plataforma Udemy.
+
+# Observações
+O Layout do projeto  foi desenvolvido utilizando o Framework Bootstrap. O projeto tem o objetivo de  fixar conceitos aprensetados durante o curso  e mostrar na prática como construir um Layout Responsivo.
 
 # Previews
 
