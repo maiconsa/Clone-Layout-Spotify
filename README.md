@@ -6,14 +6,14 @@ O Layout do projeto  foi desenvolvido utilizando o Framework Bootstrap. O projet
 
 # Previews
 
-Header
+## Header
 ![Navgation](https://github.com/maiconsa/Clone-Layout-Spotify/blob/master/preview/spotify-clone-picture-1.png)
 
-Content 1
+## Content 1
 ![Content](https://github.com/maiconsa/Clone-Layout-Spotify/blob/master/preview/spotify-clone-picture-2.png)
 
-Content 2
+## Content 2
 ![Content](https://github.com/maiconsa/Clone-Layout-Spotify/blob/master/preview/spofity-clone-picture-3.png)
 
-Footer
+## Footer
 ![Footer](https://github.com/maiconsa/Clone-Layout-Spotify/blob/master/preview/spotify-clone-picture-4.png)
